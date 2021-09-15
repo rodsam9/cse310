@@ -4,7 +4,7 @@ This program's purpose is to display "Hello World!" on the screen.
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KANEH3kp9MI)
 
 # Development Environment
 
